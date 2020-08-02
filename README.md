@@ -27,7 +27,7 @@ Hi, I'm **Jonathan Romero**, a **full-stack software developer** from **Mexico**
 ## **Let's talk! 👋🏼**
 
 **You can find me around the web 🌎:**
-<img align="left" width="150" height="150" src="assets/myoctocat.gif?raw=true">
+<img align="left" width="150" height="150" src="https://github.com/elMatadito/elMatadito/blob/master/assets/myoctocat.gif?raw=true">
 
 [![Gmail](https://img.shields.io/badge/-mail-D14836?style=social&logo=gmail)](mailto:hi@jonathanromero.com.mx)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/jromeroh93/)
@@ -35,7 +35,7 @@ Hi, I'm **Jonathan Romero**, a **full-stack software developer** from **Mexico**
 [![twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/elMataditoMX) [![instagram](https://img.shields.io/badge/-instagram-1DA1F2?style=social&logo=Instagram)](https://instagram.com/elmatadito) [![telegram](https://img.shields.io/badge/-telegram-1DA1F2?style=social&logo=telegram)](https://t.me/elmatadito)
 
 [![jonathanromero.com.mx](https://img.shields.io/badge/-jonathanromero.com.mx-000000?style=badge&logo=react&logoColor=white)](https://jonathanromero.com.mx)
-[![elmatadito.com](https://img.shields.io/badge/-elmatadito.com-000000?style=badge&logo=wordpress&logoColor=white)](https://jonathanromero.com.mx)
+[![elmatadito.com](https://img.shields.io/badge/-elmatadito.com-000000?style=badge&logo=wordpress&logoColor=white)](https://elmatadito.com)
 
 <!-- 
 
