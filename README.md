@@ -1,48 +1,54 @@
-# Hello world! 🌎
+# Hello world 👋
 
-## **About me 🙋🏽**
+## About me 🙋🏽‍♂️
 
-Hi, I'm **Jonathan Romero**, a **full-stack software developer** from **Mexico** 🇲🇽
+Hi, I'm **Jonathan Romero**, a **Front-End Software Developer** based in **Mexico** 🇲🇽  
+Focused on building clean, scalable interfaces and collaborating closely with product and backend teams.
 
-- 🧑🏻‍💻 I'm currently working remotely as full-stack software developer and team leader at [Ketogains](https://www.ketogains.com)
-- 👨🏽‍🎓 Bachelor of Engineering in Information Technology at [UTHH](http://uthh.edu.mx/)
-- 🤠 I love [Xantolo](https://xantolo.mx) (a.k.a. Día de Muertos), food (Zacahuil) and traditions from the Huasteca
-- 🎮 I like to play videogames on Nintendo Switch
-- 🎥 I like go to the cinema (B.C. Before Covid 😥)
-- 🦸🏽 I'm fan of the MCU
-- 🎵 I like Rock, Ska and Metal music 🤘🏽
-- ⛰ I would like to live in the mountains or beach 🏖
+- 🧑🏻‍💻 Currently working remotely as **Front-End Developer** at **Medtrainer**
+- 🎓 Bachelor of Engineering in Information Technology — UTHH
+- 📍 From La Huasteca, Mexico — culture, traditions, and regional food enthusiast 🌽
+- 🎬 Movie lover (still miss going to the cinema)
+- 🦸🏽 MCU fan
+- 🎵 Rock, Ska & Metal 🤘🏽
+- 🎮 Former gamer (RIP free time 😅)
+- ⛰ Dreaming of living near the mountains or the beach 🏖
 
-## **Tech Stack 🧰**
+---
 
-- ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=badge-flat&logo=javascript&logoColor=white) ![ReactJS](https://img.shields.io/badge/-React_JS-61DAFB?style=badge-flat&logo=react&logoColor=white) ![ASP .NET](https://img.shields.io/badge/-ASP.NET-0089D6?style=badge-flat&logo=microsoft&logoColor=white)
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=badge-flat&logo=graphql&logoColor=white) ![Apollo GraphQL](https://img.shields.io/badge/-Apollo-311C87?style=badge-flat&logo=apollo-graphql&logoColor=white) ![Hasura](https://img.shields.io/badge/-HASURA-111b29?style=badge-flat)
-- ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=badge-flat&logo=node.JS&logoColor=white) ![CSharp](https://img.shields.io/badge/-CSharp-239120?style=badge-flat&logo=c-sharp&logoColor=white) ![AzureFunctions](https://img.shields.io/badge/-Azure_Functions-0062AD?style=badge-flat&logo=azure-functions&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=badge-flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=badge-flat&logo=Sass&logoColor=white) ![LESS](https://img.shields.io/badge/-{LESS}-1d365d?style=badge-flat)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=badge-flat&logo=postgresql) ![MSSQLServer](https://img.shields.io/badge/-MS_SQL_Server-CC2927?style=badge-flat&logo=microsoft-sql-server) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=badge-flat&logo=mysql&logoColor=white)
-- ![MicrosoftAzure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=badge-flat&logo=microsoft-azure&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=badge-flat&logo=netlify&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=badge-flat&logo=heroku&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=badge-flat&logo=git&logoColor=white) ![AzureDevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=badge-flat&logo=azure-devops&logoColor=white) ![SCRUM](https://img.shields.io/badge/-SCRUM-666666?style=badge-flat)
-- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=badge-flat&logo=windows) ![macOS](https://img.shields.io/badge/-macOS-999999?style=badge-flat&logo=apple&logoColor=white)
+## Tech Stack 🧰
 
-## **Let's talk! 👋🏼**
+### Frontend
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=fff)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+- ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=fff)
 
-**You can find me around the web 🌎:**
-<img align="left" width="150" height="150" src="https://github.com/elMatadito/elMatadito/blob/master/assets/myoctocat.gif?raw=true">
+### Backend (working knowledge)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=fff)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=fff)
 
-[![Gmail](https://img.shields.io/badge/-mail-D14836?style=social&logo=gmail)](mailto:hi@jonathanromero.com.mx)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/jromeroh93/)
+### Databases
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
-[![twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/elMataditoMX) [![instagram](https://img.shields.io/badge/-instagram-1DA1F2?style=social&logo=Instagram)](https://instagram.com/elmatadito) [![telegram](https://img.shields.io/badge/-telegram-1DA1F2?style=social&logo=telegram)](https://t.me/elmatadito)
+### Tools & Workflow
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
+- ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=fff)
+- ![SCRUM](https://img.shields.io/badge/SCRUM-666666?style=flat)
+- ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=fff)
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=fff)
 
-[![jonathanromero.com.mx](https://img.shields.io/badge/-jonathanromero.com.mx-000000?style=badge&logo=react&logoColor=white)](https://jonathanromero.com.mx)
-[![elmatadito.com](https://img.shields.io/badge/-elmatadito.com-000000?style=badge&logo=wordpress&logoColor=white)](https://elmatadito.com)
+---
 
-<!-- 
+## Find me around the web 🌎
 
-I was inspired from Monica Powell (https://github.com/M0nica)
+<img align="left" width="130" height="130" src="https://github.com/elMatadito/elMatadito/blob/master/assets/myoctocat.gif?raw=true">
 
-Badges from https://shields.io/ 
-
-Octocat from https://myoctocat.com/ 
-
---!>
+- 💼 LinkedIn: https://www.linkedin.com/in/jromeroh93/
+- 🐦 Twitter: https://twitter.com/elMataditoMX
+- 📸 Instagram: https://instagram.com/elmatadito
+- 💬 Telegram: https://t.me/elmatadito
